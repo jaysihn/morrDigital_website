@@ -1,0 +1,1 @@
+function toggleNav(){const nav=document.querySelector('.site-nav');if(!nav)return;nav.style.display=(nav.style.display==='flex')?'none':'flex';}
